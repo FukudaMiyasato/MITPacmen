@@ -9,19 +9,19 @@
 <h1 align="center">ProyectosMIT</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fukudamiyasato/proyectosmit?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fukudamiyasato/proyectosmit?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fukudamiyasato/proyectosmit?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/fukudamiyasato/proyectosmit?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/fukudamiyasato/proyectosmit?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/fukudamiyasato/proyectosmit?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/fukudamiyasato/proyectosmit?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/fukudamiyasato" target="_blank">Author</a>
 </p>
 
 <br>
