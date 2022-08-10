@@ -1,3 +1,5 @@
+![Alt text](relative/path/to/portada.png?raw=true "portada")
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
 
@@ -81,7 +83,7 @@ $ git clone https://github.com/fukudamiyasato/MITPacmen
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
 
 &#xa0;
 
