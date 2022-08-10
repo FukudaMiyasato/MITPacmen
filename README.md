@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/portada.png?raw=true "portada")
+![Screenshot](portada.png)
 
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
