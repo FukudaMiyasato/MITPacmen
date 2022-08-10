@@ -6,7 +6,7 @@
   <!-- <a href="https://proyectosmit.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">ProyectosMIT</h1>
+<h1 align="center">Pacmen</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/fukudamiyasato/proyectosmit?color=56BEB8">
