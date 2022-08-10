@@ -48,7 +48,7 @@
 
 ## :dart: About ##
 
-Pacmen es un aplicativo para ver como rebotan los 'pacmens' para el trabajo del curso de fullstack. 
+Pacmen es un aplicativo para ver como rebotan los 'pacmens' para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
 ## :sparkles: Features ##
 
