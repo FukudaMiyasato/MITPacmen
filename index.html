@@ -2,12 +2,36 @@
 
 <head>
     <title>Pacmen</title>
+    <style>
+        body{
+            overflow: hidden;
+        }
+        #game #botonera{
+            z-index: 100;
+            padding: 5px;
+            border: solid 2px gray;
+            background-color: white;
+            border-radius: 5px;
+            position: absolute;
+            left: 50%;
+            margin-left: -110px;
+            width: 220px;
+            margin-top: 15px;
+            text-align: center;
+        }
+        #btnRestart{
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
     <div id='game'>
-        <button onclick='makeOne()' width='200' height='30'>Add PacMan</button>
-        <button onclick='update()' width='200' height='30'>Start Game</button>
+        <div id="botonera">
+            <button onclick='makeOne()' width='200' height='30'>Add PacMan</button>
+            <button id="btnRestart" onclick='refresh()' width='200' height='30'>Reload</button>
+            <button id="btnStart" onclick='update()' width='200' height='30'>Start Game</button>
+        </div>
     </div>
 
     <!-- DO NOT CHANGE THIS LINE OF CODE -->
