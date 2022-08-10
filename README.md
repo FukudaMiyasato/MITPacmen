@@ -1,4 +1,4 @@
-![Screenshot](portada.png)
+![Screenshot](portada2.png)
 
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
