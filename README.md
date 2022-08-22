@@ -48,7 +48,7 @@
 
 ## :dart: About ##
 
-Pacmen es un aplicativo para ver como rebotan los 'pacmens' para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
+Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
 ## :sparkles: Features ##
 
@@ -62,7 +62,7 @@ The following tools were used in this project:
 
 - [HTML]
 - [CSS]
-- [JAVASCRIPT]
+- [JAVASCRIPT
 
 ## :white_check_mark: Requirements ##
 
@@ -83,8 +83,8 @@ $ git clone https://github.com/fukudamiyasato/MITPacmen
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
+Hecho con :heart: por <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Regresar</a>
