@@ -50,6 +50,12 @@
 
 Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
+## :minidisc: How to Run ##
+
+## :sparkles: Roadmap of future improvements ##
+
+:hourglass_flowing_sand: Botón para agregar un pacmen\
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: Botón para agregar un pacmen\
