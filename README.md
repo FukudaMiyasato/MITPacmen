@@ -36,6 +36,8 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#minidisc-How_to_Run">How to Run</a> &#xa0; | &#xa0; 
+  <a href="#construction_site-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -52,7 +54,9 @@ Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usa
 
 ## :minidisc: How to Run ##
 
-## :sparkles: Roadmap of future improvements ##
+No necesita instalación especial, solo abrir el archivo index.html en un navegador web.
+
+## :construction_site: Roadmap of future improvements ##
 
 :hourglass_flowing_sand: Botón para agregar un pacmen\
 
