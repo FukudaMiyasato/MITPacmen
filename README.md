@@ -37,7 +37,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#minidisc-How-to-run">How to Run</a> &#xa0; | &#xa0; 
-  <a href="#construction_site-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
+  <a href="#tools-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -56,9 +56,9 @@
 
 No necesita instalación especial, solo abrir el archivo index.html en un navegador web.
 
-## :construction_site: Roadmap of future improvements ##
+## :tools: Roadmap of future improvements ##
 
-:hourglass_flowing_sand: Botón para agregar un pacmen\
+:black_circle: Botón para agregar un pacmen\
 
 ## :sparkles: Features ##
 
