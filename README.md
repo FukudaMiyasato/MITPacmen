@@ -37,7 +37,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#minidisc-How-to-run">How to Run</a> &#xa0; | &#xa0; 
-  <a href="#tools-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
+  <a href="#spiral_calendar-Roadmap-of-future-improvements">Roadmap</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -50,13 +50,13 @@
 
 ## :dart: About ##
 
-3 Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
+Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
 ## :minidisc: How to run ##
 
 No necesita instalación especial, solo abrir el archivo index.html en un navegador web. Para editar tener instalado node.
 
-## :tools: Roadmap of future improvements ##
+## :spiral_calendar: Roadmap of future improvements ##
 
 :black_circle: Colisión entre pacmens\
 :black_circle: Cambio de escalas para los pacmens
