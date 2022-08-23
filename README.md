@@ -54,11 +54,12 @@
 
 ## :minidisc: How to run ##
 
-No necesita instalación especial, solo abrir el archivo index.html en un navegador web.
+No necesita instalación especial, solo abrir el archivo index.html en un navegador web. Para editar tener instalado node.
 
 ## :tools: Roadmap of future improvements ##
 
-:black_circle: Botón para agregar un pacmen\
+:black_circle: Colisión entre pacmens\
+:black_circle: Cambio de escalas para los pacmens
 
 ## :sparkles: Features ##
 
