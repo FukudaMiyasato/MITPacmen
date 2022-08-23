@@ -52,7 +52,7 @@
 
 3 Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
-## :minidisc: How ##
+## :minidisc: How to run ##
 
 No necesita instalación especial, solo abrir el archivo index.html en un navegador web.
 
