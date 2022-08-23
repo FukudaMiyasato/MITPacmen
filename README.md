@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#minidisc_How-to-Run">How to Run</a> &#xa0; | &#xa0; 
+  <a href="#minidisc_How">How to Run</a> &#xa0; | &#xa0; 
   <a href="#construction_site-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -52,7 +52,7 @@
 
 2Proyecto web de "juego" donde puedes invocar "pacmens" para hacerlos rebotar usando los límites visibles de tu navegador como muros para el trabajo del curso de fullstack. (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> )
 
-## :minidisc: How to Run ##
+## :minidisc: How ##
 
 No necesita instalación especial, solo abrir el archivo index.html en un navegador web.
 
