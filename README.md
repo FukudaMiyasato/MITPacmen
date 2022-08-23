@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#minidisc-How_to_Run">How to Run</a> &#xa0; | &#xa0; 
+  <a href="#minidisc-How to Run">How to Run</a> &#xa0; | &#xa0; 
   <a href="#construction_site-Roadmap-of-future-improvements">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
