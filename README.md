@@ -73,7 +73,7 @@ The following tools were used in this project:
 
 - [HTML]
 - [CSS]
-- [JAVASCRIPT
+- [JAVASCRIPT]
 
 ## :white_check_mark: Requirements ##
 
